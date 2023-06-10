@@ -136,12 +136,9 @@ Przede wszystkim, zawsze pamiętajmy o tym, co zapisaliśmy w zasadach podstawow
 
 - Human Languages, Tiefling Variants (SCAG),
 - Blessing of Corellon (ToF),
-- Variant Human, Atuty (featy),
-- wieloklasowość (multiclassing) (PHB),
-- Customizing Your Origin (ale nie Custom Lineage!), 
-- Optional Class Features (TCoE),
-- Wszystkie zasady uzupełniające z rozdziału 2 Xanathar’s Guide to Everything do sekcji Invalid Spell Targets włącznie, z wyjątkiem zasady Tying Knots.
-Playing On Grid (różne podręczniki),
+- Variant Human, Atuty (featy),wieloklasowość (multiclassing) (PHB),
+- Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE),
+- Wszystkie zasady uzupełniające z rozdziału 2 Xanathar’s Guide to Everything do sekcji Invalid Spell Targets włącznie, z wyjątkiem zasady Tying Knots (XGtE),
 
 - Playing On Grid (różne podręczniki).
 
